@@ -56,10 +56,14 @@ const Navbar = () => {
           <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide">
             <div className="flex flex-col gap-8 py-2 relative">
               <div>
-                <img className="w-16" src="/image2.png" alt="logo" />
+                <img
+                  className="w-[50px] h-[50px] object-contain mr-2 rounded-full "
+                  src={kisbg}
+                  alt="logo"
+                />
                 <p className="text-sm text-gray-400 mt-2">
-                  I'm Hari Prasad J, Dedicated Software Engineer Trainee with a
-                  B.E. in Computer Science.
+                  I'm Kishore Nagarajan , Dedicated Associate Developer with a
+                  B.E. in Electronics and Communication Engineering.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
