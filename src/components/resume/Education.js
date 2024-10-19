@@ -26,13 +26,13 @@ const Education = () => {
           />
           <ResumeCard
             title="12th Standard"
-            subTitle="Sri Vidya mandir higher secondary college (2016 - 2018)"
+            subTitle="Sri Vidya mandir higher secondary school (2016 - 2018)"
             result="7.2 CGPA"
             des="Bio/Maths Group"
           />
           <ResumeCard
             title="10th Standard"
-            subTitle="Sri Vidya mandir higher secondary college (2015 -2016)"
+            subTitle="Sri Vidya mandir higher secondary school (2015 -2016)"
             result="9.6 CGPA"
             des="Secondary education in Maths, Science, Social Science, English, Tamil"
           />
