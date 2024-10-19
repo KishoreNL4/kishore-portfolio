@@ -17,7 +17,7 @@ const Navbar = () => {
   });
   const [showMenu, setShowMenu] = useState(false);
   return (
-    <div className="w-full h-24 px-10 top-0 z-50 bg-transparent mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
+    <div className="w-full h-24 px-3 lg:px-10 top-0 z-50 bg-transparent mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
       <div className="flex items-center gap-4 justify-center">
         <img
           src={kisbg}
